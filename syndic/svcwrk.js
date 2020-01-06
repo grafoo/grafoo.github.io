@@ -1,7 +1,7 @@
 const APP_NAME = 'syndic';
-const RELEASE = 1;
+const RELEASE = 2;
 const CACHE_NAME = `${APP_NAME}-v${RELEASE}`;
-const CACHE_PAGES = ['/'];
+const CACHE_PAGES = ['/syndic'];
 
 self.addEventListener('install', event => {
   event.waitUntil(
