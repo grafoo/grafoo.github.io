@@ -1,0 +1,75 @@
+The Next Lines Are a partial transcipt of [[https://youtu.be/dsMKJKTOte0?t=597][Systems Architecture, Design,
+Engineering, and Verification]], during which Ken Thompson was asked to answer a
+question resembling something like
+#+BEGIN_EXAMPLE
+Would the universal Turing machine have had the same impact, if it had 20000
+instructions instead of the very few elegant, that it did.
+#+END_EXAMPLE
+.
+
+The following is, what Mr. Kenneth Lane Thompson made out of it, rearranged with
+an artistic license by myself, to - hopefully - make the written form equally
+enjoyable to read as watching the hilarious talk itself.
+
+* Teaching Turning about Languages, Operating Systems and Networks
+  :PROPERTIES:
+  :CUSTOM_ID: 353dafb0-9e65-48b8-bca0-434f1b356890
+  :END:
+...because these are Probably the three biggest advances in computers.
+
+I wonder what would happen if you could grab Turing in 1954, just before he died
+of course and drag him up here, skipping everything between and then try to
+teach him what's going on in his absence.
+You'd have to tell him about operating systems because he's never heard the
+word.
+You'd have to tell him about compilers, he's never heard the word.
+
+I don't know if you guys know that, but as a sidenote, the other thing he was
+big in, was games.
+He actually wrote the first computer algorithm for playing chess and played the
+first computer chess game.
+The computer was simulated by him, by hand, it wasn't a real computer but it was
+a real algorithm.
+So I guess you don't have to tell him about games.
+
+** Operating Systems
+But if you want to tell him about operating systems, what you do is, you open a
+box from Dell, I guess, or some place like that, hand him a computer and a stack
+of install discs and tell him, "It's your turn, go ahead!".
+And it would be probably a week of Turing time - you understand that's different
+than normal time - and half of that time he'd be on the phone with you, waiting
+for a computer answer kind of thing.
+So then he'd get his computer up ... maybe ... but probably with help. He'd put
+it there and he'd sit and think for a while, before he got his first three
+emails about a prince in Nairobi or someplace like that or an advertisement for
+Viagra. After which his computer would be part of a botnet sending these things
+out because of course he didn't have a firewall on it, because no one told him.
+
+** Languages
+So the next thing you teach Turning would be languages and you know, it would be
+a concept. He grasped the concept but then you'd hand him a C++ manual and I
+think - we previously talked about just a couple of weeks of Turing time -, that
+would be a lifetime gone.
+
+** Networks
+Then you teach him networks.
+Networks are still good.
+Unfortunately they open you up to a horrible world out there.
+But there are some really really bright spots like Wikipedia and things like
+that.
+So I'm still optimistic about networks.
+
+* Ken Quotes
+...that are still outstanding but I couldn't fit well in the flow of
+[[#353dafb0-9e65-48b8-bca0-434f1b356890]].
+
+** Counteracting the rosy future
+#+BEGIN_QUOTE
+It's not all rosy.
+#+END_QUOTE
+
+** [[https://en.wikipedia.org/wiki/Maury_(talk_show)][The Maury Povich Show]]
+#+BEGIN_QUOTE
+I feel now kind of probably the way, one of the pioneers of television would
+feel, if he came and saw Maury Povich or something like that.
+#+END_QUOTE
